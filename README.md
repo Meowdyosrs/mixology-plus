@@ -2,6 +2,8 @@
 
 A step-by-step guide for the Mastering Mixology minigame in Varlamore. It picks which orders are worth making, shows you which lever to pull and in what order, and walks you through every station, digweed and deposit, one step at a time.
 
+![Screenshot](img/screenshot.png)
+
 ## Features
 
 ### Picks your orders
